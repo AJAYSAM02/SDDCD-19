@@ -8,3 +8,6 @@ We first import the numpy library and then use the numpy module to find the Eucl
 We used the math.dist() function to find the Euclidean Distance[dist.cdist()].
 
 Step by Step explanation is given in the code file.
+
+To run this project you should download the yolococo.rar from the link.
+Link: https://drive.google.com/file/d/1iDDHNp1kvOrP81V3HXfoen2guTkhTMwO/view?usp=sharing
